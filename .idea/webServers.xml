@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6d3c8456-e4f5-4613-ada0-23044102e103" name="lab502" url="http://202.38.75.5">
+        <fileTransfer host="202.38.75.5" port="1608" rootFolder="/home/wgf/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="1608" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
