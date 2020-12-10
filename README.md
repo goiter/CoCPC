@@ -3,7 +3,7 @@
 This repository releases the code and data for stock movement prediction by considering the coupling with macroeconomic indicators. 
 Please cite the follow paper if you use this code.
 
-
+G. Wang, L. Cao, et.al, Coupling Macro-Sector-Micro Financial Indicators for LearningStock Representations with Less Uncertainty, AAAI 2021.
 
 Should you have any query please contact me at [wgf1109@gmail.com](mailto:wgf1109@gmail.com).
 
