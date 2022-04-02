@@ -150,6 +150,7 @@ if __name__ == '__main__':
     parser.add_argument('--dataset', type=str, default='acl18', help='choose dataset to run')
     parser.add_argument('--epochs', type=int, default=200, metavar='N',
                         help='number of epochs to train')
+    parser.add_argument('--n-warmup-steps', type=int, default=50)
     parser.add_argument('--batch-size', type=int, default=32,
                         help='batch size')
     parser.add_argument('--rep_dim', type=int, default=108, help='representation dimension')
